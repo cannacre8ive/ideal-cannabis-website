@@ -18,6 +18,7 @@ All notable changes to this project are documented in this file. The format foll
 - Replaced third-party Wix image hotlinks with versioned local assets.
 - Added real hash destinations to client-side navigation links.
 - Improved mobile navigation state announcements.
+- Refreshed desktop, mobile, and social screenshots from the stable production origin.
 
 ### Fixed
 

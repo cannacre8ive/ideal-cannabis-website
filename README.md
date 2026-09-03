@@ -72,7 +72,7 @@ Business, product, potency, licensing, availability, retailer, and contact claim
 - Preserved the original prototype and packaged a standalone production release.
 - Localized all photography and added accessibility, SEO, and social sharing essentials.
 - Added complete product, design, architecture, user-flow, testing, contribution, attribution, and portfolio documentation.
-- Added desktop, mobile, and 1200 × 630 social preview assets.
+- Added desktop, mobile, and 1200 × 630 social preview assets captured from the stable production origin.
 
 See [CHANGELOG.md](CHANGELOG.md) for the full release record.
 
