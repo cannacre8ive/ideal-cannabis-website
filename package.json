@@ -1,0 +1,13 @@
+{
+  "name": "ideal-cannabis-website",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Portfolio-ready static website for Ideal Cannabis, designed and developed by CannaCre8ive.",
+  "scripts": {
+    "check": "node scripts/check-release.mjs",
+    "serve": "python3 -m http.server 4173"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
